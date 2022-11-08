@@ -305,7 +305,7 @@ public class UserRegTest {
 			System.out.println("Enter Mobile Number ");
 			String MobileNumber=sc.next();
 			
-			System.out.println("Enter Password");
+			System.out.println("Enter Password ");
 			String password=sc.next();
 
 			sc.close();
